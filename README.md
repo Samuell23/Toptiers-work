@@ -18,7 +18,7 @@ This project bridges the gap between local talent and structured learning in und
 
 ## 📁 Wireframe Drafts
 
-View the latest interface and flow drafts in the [Wireframes Folder]()
+View the latest interface and flow drafts in the [Wireframes Folder](https://github.com/Samuell23/Toptiers-work/tree/main/Wireframes)
 
 ## 👥 Contributors
 
