@@ -18,19 +18,17 @@ This project bridges the gap between local talent and structured learning in und
 
 ## 📁 Wireframe Drafts
 
-View the latest interface and flow drafts in the 
+View the latest interface and flow drafts in the [Wireframes Folder]()
 
 ## 👥 Contributors
 
-- [@Samuell-Oduor](https://github.com/Samuell23) – Lead Concept Developer & Community Coordinator  
-- [@LindaTechie](https://github.com/LindaTechie) – UX/UI Designer & Frontend Contributor  
-- [@MutuaCodes](https://github.com/MutuaCodes) – Backend Developer & Database Architect
+- [@Samuell-Oduor](https://github.com/Samuell23) 
+- [@PaulKamau]()  
+- [@AndrewSio]() 
 
 ## 📄 License
 
-This project is open source under the [MIT License](LICENSE).
 
----
 
 > _Empowering learning, locally and digitally._
 
